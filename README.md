@@ -19,8 +19,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashalen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&order=1&custom_title=Ashalen's%20Stats" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashalen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashalen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&order=1&custom_title=Ashalen's%20Stats" height="205" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashalen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&order=2" height="205" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Ashalen&theme=dark_dimmed&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
